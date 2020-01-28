@@ -12,5 +12,3 @@ def my_collect(content)
 end
 
 
-hello(content) { |name| "Hi, #{name}" }
-
